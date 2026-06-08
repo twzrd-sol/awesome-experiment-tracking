@@ -28,3 +28,7 @@ An indicator of the popularity of tools for tracking and managing machine learni
 - [Weights & Biases](https://wandb.ai/site) - Build better models faster with experiment tracking, dataset versioning, and model management
 - [Neptune.ai](https://neptune.ai/) - Experiment tracking and model registry for production teams 
 - [Comet ML](https://www.comet.ml/site/) - Manage and optimize the entire ML lifecycle, from experiment tracking to model production monitoring
+
+## Agent Identity & Trust
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify wallet identity of agent runners or evaluators with `score_agent(wallet)` (free) or get a signed trust receipt via x402 micropayment. Useful when AI agents submit experiment results or perform automated model evaluation. MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
